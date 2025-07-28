@@ -1,4 +1,4 @@
-# Commitlint Test
+# React Project
 
 ## Instalation
 
